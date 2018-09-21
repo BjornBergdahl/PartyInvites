@@ -1,6 +1,6 @@
 using System;
 
-namespace PartInvites.Models
+namespace PartyInvites.Models
 {
     public class ErrorViewModel
     {
